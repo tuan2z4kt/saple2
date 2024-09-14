@@ -1,0 +1,29 @@
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+header{
+    background-color: violet;
+}
+nav{
+    background-color: brown;
+}
+main{
+    background-color: yellow;
+    font-size: 20px;
+}
+footer{
+    background-color: aquamarine;
+}
+li{
+    display: contents;
+    width: 50px;
+}
+h1{
+    font-size: 49px;
+    color: red;
+    text-align: center;
+}
+p{
+    line-height: 50px
+}
